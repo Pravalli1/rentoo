@@ -1,0 +1,12 @@
+.car{
+    background-image: url('/car.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container-fluid{
+    height:690px;
+}
+.form{
+    margin-top:100px;
+    margin-left:200px;
+}
